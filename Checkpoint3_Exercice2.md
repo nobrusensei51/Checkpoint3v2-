@@ -8,6 +8,8 @@ Q.2.1.2 Quelles préconisations proposes-tu concernant ce compte ?
 
 Mon compte est un compte personnel , je choisis donc d'appliquer le principe de moindre privilèges , et je choisis un mot de passe robuste que je change de façon régulière . Je déplace mon compte dans le groupe users . 
 
+
+
 ### Partie 2 : Configuration de SSH
 
 $${\color{red}Q.2.2.1}$$ Ok  
@@ -15,6 +17,8 @@ $${\color{red}Q.2.2.1}$$ Ok
 $${\color{red}Q.2.2.2}$$ Ok  
 
 $${\color{red}Q.2.2.3}$$ Ok  
+
+
 
 ### Partie 3 : Analyse du stockage  
 
@@ -32,9 +36,13 @@ $${\color{red}Q.2.3.4}$$ Ok
 
 $${\color{red}Q.2.3.5}$$ Ok  
 
+
+
 ### Partie 4 : Sauvegardes  
 
 $${\color{red}Q.2.4.1}$$ Ok  
+
+
 
 ### Partie 5 : Filtrage et analyse réseau
 $${\color{red}Q.2.5.1}$$ Ok  
